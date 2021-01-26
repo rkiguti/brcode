@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRCode", "BRCode\BRCode.csproj", "{ABF304C3-F001-4467-8C5D-7398BD070243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRCode.Testes", "BRCode.Testes\BRCode.Testes.csproj", "{AA4BA802-F738-4F8A-89F0-9588342DBD83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF304C3-F001-4467-8C5D-7398BD070243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF304C3-F001-4467-8C5D-7398BD070243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF304C3-F001-4467-8C5D-7398BD070243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF304C3-F001-4467-8C5D-7398BD070243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA4BA802-F738-4F8A-89F0-9588342DBD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4BA802-F738-4F8A-89F0-9588342DBD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4BA802-F738-4F8A-89F0-9588342DBD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4BA802-F738-4F8A-89F0-9588342DBD83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6263467-01AB-4D99-A65F-B379AFA76FF3}
+	EndGlobalSection
+EndGlobal
